@@ -9,10 +9,7 @@ int main()
 	
 		///code for operation starts .
 		
-		
-	printf("-------------------------------------\n");
 	printf(" which operation you want to perform ? \n ");
-	printf("-------------------------------------\n");
 	printf("Press 1 for Addition of two matrix .\n");
 	printf("Press 2 for Multiplication of two matrix .\n");
 	scanf("%d",&operation);
